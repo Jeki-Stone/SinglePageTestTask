@@ -1,0 +1,32 @@
+﻿.bar {
+    position: absolute;
+    font-family: Ubuntu;
+    width: 215px;
+    min-height: 100%;
+    left: 0px;
+    padding-top: 58px;
+    z-index: 1;
+    background: #FFFFFF;
+    box-shadow: 4px 0px 10px rgba(93, 109, 151, 0.1);
+    position: fixed;
+}
+
+.list {
+    padding: 17px 0 17px 53px;
+    margin-bottom: 0px;
+    border-bottom: 0.5px solid rgba(93, 110, 151, 0.4);
+}
+
+.list a {
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 18px;
+    color: #5D6D97;
+    text-decoration:none;
+}
+
+.list :hover {
+    
+}
